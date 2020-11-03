@@ -41,6 +41,14 @@ log-symbols@^4.0.0:
   dependencies:
     chalk "^4.0.0"
 
+ohmygooo-notify@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/ohmygooo-notify/-/ohmygooo-notify-1.0.0.tgz#c04bf1bb85a8275fe97f4ff8b3f1d6a60c83a103"
+  integrity sha512-eyZhVQyl2Hi8sCR0+okGUlOWs4w3a5lfPvAEbCHyFV90S9RijMS50sXnGaquaIJWWCA2Y9klgiF/mkalBLQKRg==
+  dependencies:
+    chalk "^4.1.0"
+    log-symbols "^4.0.0"
+
 supports-color@^7.1.0:
   version "7.2.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-7.2.0.tgz#1b7dcdcb32b8138801b3e478ba6a51caa89648da"

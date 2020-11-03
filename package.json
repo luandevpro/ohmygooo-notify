@@ -22,6 +22,7 @@
     "homepage": "https://github.com/luandevpro/ohmygooo-notify#readme",
     "dependencies": {
         "chalk": "^4.1.0",
-        "log-symbols": "^4.0.0"
+        "log-symbols": "^4.0.0",
+        "ohmygooo-notify": "^1.0.0"
     }
 }
