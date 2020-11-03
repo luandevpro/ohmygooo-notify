@@ -1,0 +1,27 @@
+{
+    "name": "ohmygooo-notify",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "bin": {
+        "notify": "index.js"
+    },
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/luandevpro/ohmygooo-notify.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/luandevpro/ohmygooo-notify/issues"
+    },
+    "homepage": "https://github.com/luandevpro/ohmygooo-notify#readme",
+    "dependencies": {
+        "chalk": "^4.1.0",
+        "log-symbols": "^4.0.0"
+    }
+}
